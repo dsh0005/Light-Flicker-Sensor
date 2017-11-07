@@ -36,7 +36,7 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Light Flicker Sensor"
-Date ""
+Date "2017-11-07"
 Rev "1"
 Comp ""
 Comment1 ""
